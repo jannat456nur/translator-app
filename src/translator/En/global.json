@@ -1,0 +1,10 @@
+{
+    "header":{
+        "title":"Welcome to the React App",
+        "subtitle":"This is a simple React App with multi-language support"
+    },
+    "home":{
+        "title":"Home",
+        "subtitle":"This is the Home Page"
+    }
+}
