@@ -1,6 +1,10 @@
 {
-    "hedaer": {
-        "title": "Bienvenue sur le site de l'entreprise",
-        "description": "Nous sommes une entreprise spécialisée dans la vente de produits de qualité"
+    "header": {
+        "title": "Bienvenue dans l'application React",
+        "subtitle": "Ceci est une application React simple avec support multilingue"
+    },
+    "home": {
+        "title": "Accueil",
+        "subtitle": "Ceci est la page d'accueil"
     }
 }
