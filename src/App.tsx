@@ -1,20 +1,17 @@
 
 import './App.css'
-import Header from './components/Header'
-import Home from './components/Home'
-
-
-
-
-
-
-
+import { ModeToggle } from './ModeTogle'
+import Card from './components/Card'
+import ThemeBtn from './components/ThemeBtn'
 
 function App() {
   return (
     <>
-      <Header />
-      <Home />
+      {/* <Header />
+      <Home /> */}
+      {/* <ThemeBtn />
+      <Card /> */}
+      <ModeToggle />
     </>
   )
 }
